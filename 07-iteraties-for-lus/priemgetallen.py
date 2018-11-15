@@ -1,0 +1,2 @@
+getal = int(input('getal: '))
+
